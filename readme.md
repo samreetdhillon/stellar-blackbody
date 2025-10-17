@@ -46,3 +46,12 @@ Total radiated power per unit area for T = 9940 K is: 1.75e+08 W/m^2
 Peak wavelength for T = 3500 K is: 826.45 nm
 Total radiated power per unit area for T = 3500 K is: 2.50e+06 W/m^2
 ```
+
+**Output Plots**
+![Output Plot](curves.png)
+
+## Author
+
+Samreet S. Dhillon  
+M.Sc Physics,  
+Panjab University, Chandigarh.
